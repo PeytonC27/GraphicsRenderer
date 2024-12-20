@@ -1,7 +1,4 @@
 *.o
 *.exe
-/SDL2
-/.vscode
-/SDL_Image
 *.dll
 *.png
